@@ -1,0 +1,11 @@
+{
+  "name": "nirav-tools",
+  "owner": { "name": "Nirav Parmar" },
+  "plugins": [
+    {
+      "name": "dev-kit",
+      "source": "./plugins/dev-kit",
+      "description": "Full-stack workflow: skills, reviewers, safety hooks"
+    }
+  ]
+}

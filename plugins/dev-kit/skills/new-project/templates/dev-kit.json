@@ -1,0 +1,6 @@
+{
+  "protect": [
+    { "re": "(^|/)src/generated/", "why": "generated code; regenerate instead" },
+    { "re": "(^|/)secrets/", "why": "secrets", "secret": true }
+  ]
+}

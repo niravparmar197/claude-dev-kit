@@ -1,0 +1,6 @@
+{
+  "name": "dev-kit",
+  "description": "Nirav's full-stack workflow: sprint skills, reviewers, safety hooks",
+  "version": "1.0.0",
+  "author": { "name": "Nirav Parmar" }
+}
